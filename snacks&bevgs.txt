@@ -1,0 +1,6 @@
+1) Spicy nuggets.	490
+2) Hot wings Bucket.	550
+3) Small Fries.	250
+4) Large Fries.	390
+5) Mineral Water.	90
+6) Cold Drink.	120
